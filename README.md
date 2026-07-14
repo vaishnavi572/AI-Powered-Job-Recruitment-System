@@ -161,16 +161,6 @@ sf project deploy start
 
 ---
 
-## Author
-
-Vaishnavi
-
-B.Tech Final Year Student
-
-Salesforce Developer | Java | DSA | Web Development
-
----
-
 ## License
 
 This project is licensed under the MIT License.
