@@ -118,15 +118,13 @@ Recruiters receive automated notifications during important hiring events.
 
 | Feature | Screenshot |
 |----------|------------|
-| Home Page | docs/Screenshots/Home.png |
+| Roles Page | docs/Screenshots/Home.png |
 
 ![Application Home](docs/Screenshot%202026-07-14%20193052.png)
 
+![Candidate Application](docs/Screenshot%202026-07-14%20192803.png)
 
-| Candidate Object | docs/Screenshots/Candidate_Object.png |
-| Flow Builder | docs/Screenshots/Flow.png |
-| Approval Process | docs/Screenshots/Approval_Process.png |
-| Agentforce | docs/Screenshots/Agentforce.png |
+
 
 ---
 
