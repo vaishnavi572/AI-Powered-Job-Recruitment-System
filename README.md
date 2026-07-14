@@ -119,6 +119,9 @@ Recruiters receive automated notifications during important hiring events.
 | Feature | Screenshot |
 |----------|------------|
 | Roles Page | docs/Screenshots/Home.png |
+![Job Opening](docs/Screenshot%202026-07-14%20192449.png)
+
+![Record Triggered Flow](docs/Screenshot%202026-07-14%20192414.png)
 
 ![Application Home](docs/Screenshot%202026-07-14%20193052.png)
 
