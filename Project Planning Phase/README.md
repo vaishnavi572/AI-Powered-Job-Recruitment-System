@@ -1,15 +1,15 @@
-# Project Design Phase
+# Project Planning Phase
 
 ## Overview
 
-This phase describes the architectural design and system structure of the AI-Powered Job Recruitment & Candidate Management System (AIRCMS).
+The Project Planning Phase outlines the strategy, timeline, milestones, resource allocation, and risk management plan for developing the AI-Powered Job Recruitment & Candidate Management System (AIRCMS).
 
-It explains how Salesforce components, automation tools, AI capabilities, and user roles work together to provide an intelligent recruitment platform.
+This phase ensures that project activities are organized, development objectives are clearly defined, and implementation progresses in a structured manner.
 
 ## Contents
 
-- ProjectDesign.md
+- ProjectPlanning.md
 
 ## Purpose
 
-The design phase translates business requirements into a technical solution by defining the system architecture, data model, automation workflows, security model, and user interactions.
+The purpose of this phase is to establish a roadmap for project execution, identify potential risks, define deliverables, and ensure timely completion of all development activities.
