@@ -1,166 +1,141 @@
-# AI-Powered Job Recruitment & Candidate Management System
+# AI-Powered Job Recruitment & Candidate Management System (AIRCMS)
 
 ## Project Overview
 
-The AI-Powered Job Recruitment & Candidate Management System is a Salesforce CRM solution designed to streamline the hiring process by automating candidate tracking, recruiter workflows, approval processes, and AI-assisted candidate evaluation.
+The **AI-Powered Job Recruitment & Candidate Management System (AIRCMS)** is a Salesforce-based recruitment platform designed to streamline and automate the complete hiring lifecycle. The application leverages Salesforce Lightning Experience, Custom Objects, Flows, Approval Processes, Reports, Dashboards, and Agentforce AI to simplify candidate management and improve recruitment efficiency.
 
-The application centralizes recruitment activities, improves hiring efficiency, and provides recruiters with better visibility into candidate progress.
+The system enables recruiters and hiring managers to manage job openings, candidate applications, interview processes, offer approvals, and AI-driven hiring recommendations from a centralized platform.
 
 ---
 
-## Features
+## Objectives
+
+- Centralize recruitment management using Salesforce.
+- Automate recruitment workflows with Salesforce Flows.
+- Enable AI-powered candidate evaluation using Agentforce AI.
+- Improve hiring accuracy through AI-generated recommendations.
+- Reduce manual effort and streamline approval processes.
+- Ensure secure, role-based access to recruitment data.
+- Enhance recruiter productivity and decision-making.
+
+---
+
+## Key Features
 
 - Candidate Management
 - Job Opening Management
-- Candidate Applications
-- AI Candidate Score Tracking
-- Approval Process for Candidate Offers
+- Candidate Application Tracking
+- AI Candidate Scoring
+- AI Hiring Recommendations
+- Salesforce Flow Automation
+- Approval Processes
 - Validation Rules
-- Record Triggered Flows
-- Email Notifications
-- Dynamic Forms
-- Permission Sets
-- Agentforce AI Integration
-- Custom Lightning Application
+- Reports and Dashboards
+- Role-Based Security
 
 ---
 
 ## Technologies Used
 
 - Salesforce CRM
-- Salesforce DX
-- Apex
-- Flow Builder
-- Lightning App Builder
-- Dynamic Forms
+- Salesforce Lightning Experience
+- Salesforce Flow Builder
+- Approval Processes
 - Agentforce AI
-- Git
-- GitHub
+- Visual Studio Code
+- Salesforce CLI
+- Git & GitHub
 
 ---
 
-## Salesforce Components
-
-### Custom Objects
-
-- Candidate Application
-- Job Opening
-
-### Automation
-
-- Record Triggered Flow
-- Email Alerts
-- Approval Process
-
-### Security
-
-- Permission Sets
-- Profiles
-
-### User Interface
-
-- Lightning App
-- Custom Tabs
-- Dynamic Forms
-- Page Layouts
-
----
-
-## Project Structure
+## Repository Structure
 
 ```
-force-app/
-manifest/
-docs/
-README.md
+AI-Powered-Job-Recruitment-System/
+│
+├── Brainstorming and Ideation/
+├── Requirement Analysis/
+├── Project Design Phase/
+├── Project Planning Phase/
+├── Project Development Phase/
+├── Project Testing/
+├── Project Documentation/
+├── Project Demonstration/
+│
+├── config/
+├── force-app/
+├── manifest/
+│
+├── .forceignore
+├── .gitignore
+├── package.json
+├── sfdx-project.json
+└── README.md
 ```
 
 ---
 
-## Business Problem
+## Project Workflow
 
-Traditional recruitment processes often rely on spreadsheets, emails, and disconnected systems which result in:
-
-- Duplicate candidate records
-- Manual approval delays
-- Poor recruitment tracking
-- Inconsistent hiring decisions
-
-This project solves these challenges using Salesforce automation.
-
----
-
-## Key Features
-
-### Candidate Management
-
-Manage candidate profiles and applications from one place.
-
-### Job Opening Management
-
-Track open positions, departments, salaries, and vacancies.
-
-### AI Candidate Scoring
-
-Automatically evaluate applicants using AI-generated scores.
-
-### Approval Workflow
-
-High-value candidate offers require manager approval before processing.
-
-### Email Notifications
-
-Recruiters receive automated notifications during important hiring events.
+1. Brainstorming and Ideation
+2. Requirement Analysis
+3. Project Design
+4. Project Planning
+5. Project Development
+6. Project Testing
+7. Project Documentation
+8. Project Demonstration
 
 ---
 
-## Project Screenshots
+## Expected Outcomes
 
-| Feature | Screenshot |
-|----------|------------|
-| Roles Page | docs/Screenshots/Home.png |
-![Job Opening](docs/Screenshot%202026-07-14%20192449.png)
-
-![Record Triggered Flow](docs/Screenshot%202026-07-14%20192414.png)
-
-![Application Home](docs/Screenshot%202026-07-14%20193052.png)
-
-![Candidate Application](docs/Screenshot%202026-07-14%20192803.png)
-
-
-
----
-
-## Installation
-
-```bash
-git clone https://github.com/yourusername/AI-Powered-Job-Recruitment-System.git
-```
-
-Authorize your Salesforce Org
-
-```bash
-sf org login web
-```
-
-Deploy
-
-```bash
-sf project deploy start
-```
+- Faster recruitment process
+- AI-assisted hiring decisions
+- Automated approval workflows
+- Improved candidate prioritization
+- Enhanced recruitment transparency
+- Secure and scalable Salesforce application
 
 ---
 
 ## Future Enhancements
 
-- Resume Parsing
-- Einstein AI Recommendations
-- Interview Scheduling
-- Dashboard Analytics
-- Recruiter Performance Reports
+- Resume parsing using AI
+- Interview scheduling automation
+- Integration with external job portals
+- Predictive hiring analytics
+- Mobile application support
+- Advanced AI-based recruitment insights
 
 ---
 
-## License
+## Project Documentation
 
-This project is licensed under the MIT License.
+The repository contains complete documentation covering:
+
+- Brainstorming and Ideation
+- Requirement Analysis
+- Project Design
+- Project Planning
+- Project Development
+- Project Testing
+- Final Project Report
+- Project Demonstration
+
+---
+
+## Conclusion
+
+The AI-Powered Job Recruitment & Candidate Management System demonstrates how Salesforce and Agentforce AI can modernize recruitment by combining intelligent automation, secure data management, and AI-driven hiring insights into a single scalable platform.
+
+---
+
+## References
+
+- Salesforce Documentation
+- Salesforce Trailhead
+- Salesforce CLI Documentation
+- Agentforce Documentation
+- Visual Studio Code Documentation
+- GitHub Documentation
